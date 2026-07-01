@@ -15,7 +15,7 @@ A tech-driven student at Quoc Hoc Quy Nhon High School, fascinated by the archit
 ![Grid-Snake](https://raw.githubusercontent.com/hoangtien2k3/hoangtien2k3/main/dist/grid-snake.svg)
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/lengocbaochau.2009" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="lengocbaochau.2009" height="30" width="40" /></a>
