@@ -1,5 +1,5 @@
 # 💫 Hi, I'm Bảo Châu (Pandora), from Vietnam.
-A tech-driven student at Quoc Hoc Quy Nhon High School, fascinated by the architecture of computation and data-driven insights. Passionate about designing algorithmic solutions to real-world challenges. Balancing rigorous mathematical thinking with strong global communication skills, certified by tier academic honors in English.
+A tech-driven student at Quoc Hoc Quy Nhon High School, fascinated by the architecture of computation and data-driven insights. Passionate about designing algorithmic solutions to real-world challenges. Balancing rigorous mathematical thinking with strong global communication skills.
 
 <p align="center"><picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hoangtien2k3/hoangtien2k3/output/pacman-contribution-graph-dark.svg">
