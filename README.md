@@ -11,7 +11,7 @@ A tech-driven student at Quoc Hoc Quy Nhon High School, fascinated by the archit
 </div>
 
 
-# Exciting
+# ⚡ Exciting
 ![Grid-Snake](https://raw.githubusercontent.com/hoangtien2k3/hoangtien2k3/main/dist/grid-snake.svg)
 
 
