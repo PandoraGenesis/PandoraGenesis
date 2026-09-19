@@ -36,8 +36,6 @@ Hi, I'm **Bảo Châu (Pandora)**. I'm fascinated by **the architecture of compu
 
 # 🎯 What I'm Up To
 <p align="center">
-  <img src="https://img.shields.io/badge/🔭_Currently_Working_On-VNFinder_AI-blue?style=for-the-badge" />
-  <br/>
   <img src="https://img.shields.io/badge/🌱_Learning-Data_Science_%26_Machine_Learning-purple?style=for-the-badge" />
   <br/>
   <img src="https://img.shields.io/badge/📈_Researching-Student_Mental_Health_Analytics-orange?style=for-the-badge" />
