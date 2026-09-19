@@ -84,9 +84,4 @@ A tech-driven student at Quoc Hoc Quy Nhon High School, fascinated by the archit
 <img src="./assets/matrix-drone.svg" width="100%" alt="Matrix Chrome Dino Runner" />
 
 <img src="./assets/matrix-divider.svg" width="100%" alt="---" />
-
-<div align="center">
-  <sub>
-    Engineered by <strong>kishikuun</strong>
-  </sub>
-</div>
+<div></div>
