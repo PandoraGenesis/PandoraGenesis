@@ -1,37 +1,57 @@
-# 💫 Hi, I'm Bảo Châu (Pandora), from Vietnam.
-A tech-driven student at Quoc Hoc Quy Nhon High School, fascinated by the architecture of computation and data-driven insights. Passionate about designing algorithmic solutions to real-world challenges. Balancing rigorous mathematical thinking with strong global communication skills.
+<div align="center">
 
-<p align="center"><picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hoangtien2k3/hoangtien2k3/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hoangtien2k3/hoangtien2k3/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/hoangtien2k3/hoangtien2k3/output/pacman-contribution-graph.svg" width="600">
-</picture>
+  <!-- BRAND HEADER -->
+  <a href="https://github.com/PandoraGenesis">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="assets/wordmark-dark.svg">
+      <img alt="kPandoraGenesis" src="assets/wordmark-light.svg" width="420">
+    </picture>
+  </a>
+  <br/>
 
-  </div>
+<br/>
+
+<div align="left">
+  
+# 👋 Who Am I?
+<div align="left">
+  
+> *"Behind every dataset lies a story waiting to be understood — I just build the tools to read it."*
+
+Hi, I'm **Bảo Châu (Pandora)** — a high school student at **Quoc Hoc Quy Nhon High School**, Vietnam.
+I'm fascinated by **the architecture of computation and data-driven insights**, and I love turning real-world problems into clean, algorithmic solutions. I balance **rigorous mathematical thinking** with **strong global communication skills**, always looking for the logic underneath the noise.
+
+- 🧮 **Analytical Mindset:** I enjoy breaking problems down mathematically before writing a single line of code.
+- 📊 **Data-Driven Thinker:** I care about what the numbers actually mean, not just what they show.
+- 🌍 **Global Communicator:** Comfortable working and presenting across languages and cultures.
 </div>
 
-
-# ⚡ Look at this snake eating up my contributions!
-![Grid-Snake](https://raw.githubusercontent.com/hoangtien2k3/hoangtien2k3/main/dist/grid-snake.svg)
+<br/>
 
 
 # 🌐 Socials
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/lengocbaochau.2009" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="lengocbaochau.2009" height="30" width="40" /></a>
-<a href="https://instagram.com/lengocbaochau.2009" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lengocbaochau.2009" height="30" width="40" /></a>
-<a href="https://discord.gg/baochau.70209" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="baochau.70209" height="30" width="40" /></a></p>
+<p align="center">
+<a href="https://fb.com/lengocbaochau.2009" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>&nbsp;&nbsp;
+<a href="https://instagram.com/lengocbaochau.2009" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;&nbsp;
+<a href="https://discord.gg/baochau.70209" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>&nbsp;&nbsp;
+<a href="mailto:lengocbaochau120209@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lengocbaochau120209@gmail.com) 
+<br/>
 
 # 💻 Tech Stack
-<p <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.gtk.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/7/71/GTK_logo.svg" alt="gtk" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> </p>
+<p align="center">
+<a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" /></a>&nbsp;&nbsp;
+<a href="https://www.gtk.org/" target="_blank"><img src="https://img.shields.io/badge/GTK-7FE719?style=for-the-badge&logo=gtk&logoColor=black" /></a>&nbsp;&nbsp;
+<a href="https://www.mysql.com/" target="_blank"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /></a>&nbsp;&nbsp;
+<a href="https://pandas.pydata.org/" target="_blank"><img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" /></a>&nbsp;&nbsp;
+<a href="https://www.python.org" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></a>&nbsp;&nbsp;
+<a href="https://pytorch.org/" target="_blank"><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" /></a>&nbsp;&nbsp;
+<a href="https://scikit-learn.org/" target="_blank"><img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" /></a>
+</p>
+<div></div>
 
-#
-[![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](https://vineet221713.io)
-
-</details>  
-
+<br/>
 
 # 📊 Telemetry & Stats
 
@@ -52,36 +72,22 @@ A tech-driven student at Quoc Hoc Quy Nhon High School, fascinated by the archit
 <br/>
 
 # ⚡ Contribution Animations
+<p align="center"><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hoangtien2k3/hoangtien2k3/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hoangtien2k3/hoangtien2k3/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/hoangtien2k3/hoangtien2k3/output/pacman-contribution-graph.svg" width="600">
+</picture>
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hoangtien2k3/hoangtien2k3/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hoangtien2k3/hoangtien2k3/output/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/hoangtien2k3/hoangtien2k3/output/pacman-contribution-graph.svg" width="600">
-  </picture>
+  </div>
 </div>
 
-<br/>
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./dist/github-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./dist/github-snake.svg">
-    <img alt="github contribution grid snake animation" src="./dist/github-snake.svg">
-  </picture>
-</div>
+#
 
-<br/>
+![Grid-Snake](https://raw.githubusercontent.com/hoangtien2k3/hoangtien2k3/main/dist/grid-snake.svg)
 
-<div align="center">
-  <a href="https://vineet221713.io">
-    <img src="./assets/masterhead.svg" alt="MasterHead" />
-  </a>
-</div>
 
-<br/>
+#
+[![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](https://vineet221713.io)
 
-<img src="./assets/matrix-drone.svg" width="100%" alt="Matrix Chrome Dino Runner" />
-
-<img src="./assets/matrix-divider.svg" width="100%" alt="---" />
-<div></div>
+</details> 
