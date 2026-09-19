@@ -4,12 +4,15 @@
 
   <!-- BRAND HEADER -->
   <a href="https://github.com/PandoraGenesis">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=100&section=header&text=PANDORA&fontSize=60&fontColor=222222&fontAlignY=45" width="420"/>
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="assets/wordmark-dark.svg">
+      <img alt="PandoraGenesis" src="assets/wordmark-light.svg" width="420">
+    </picture>
   </a>
 
   <br/>
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7931E&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+B%E1%BA%A3o+Ch%C3%A2u+(Pandora);I'm+from+Vietnam;Data-driven+problem+solver" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7931E&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+B%E1%BA%A3o+Ch%C3%A2u;I'm+from+Vietnam;Data-driven+problem+solver" />
 
 </div>
 
