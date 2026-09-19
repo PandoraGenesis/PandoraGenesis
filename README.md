@@ -33,6 +33,60 @@ A tech-driven student at Quoc Hoc Quy Nhon High School, fascinated by the archit
 </details>  
 
 
-# 📊 GitHub Stats
-![](https://github-readme-stats.shion.dev/api?username=PandoraGenesis&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=PandoraGenesis&theme=dark&hide_border=false)<br/>
+# 📊 Telemetry & Stats
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PandoraGenesis&theme=radical"/>
+</p>
+
+<p align="center">
+  <img src="https://denvercoder1-github-readme-stats.vercel.app/api?username=PandoraGenesis&show_icons=true&count_private=true&theme=react"/>
+  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=PandoraGenesis&layout=compact&theme=react"/>
+</p>
+
+<div align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=PandoraGenesis&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="Stats" />
+  <img src="https://streak-stats.demolab.com/?user=kishikuun&theme=dark&hide_border=false" alt="Streak" />
+</div>
+
+<br/>
+
+# ⚡ Contribution Animations
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hoangtien2k3/hoangtien2k3/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hoangtien2k3/hoangtien2k3/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/hoangtien2k3/hoangtien2k3/output/pacman-contribution-graph.svg" width="600">
+  </picture>
+</div>
+
+<br/>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./dist/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./dist/github-snake.svg">
+    <img alt="github contribution grid snake animation" src="./dist/github-snake.svg">
+  </picture>
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="https://vineet221713.io">
+    <img src="./assets/masterhead.svg" alt="MasterHead" />
+  </a>
+</div>
+
+<br/>
+
+<img src="./assets/matrix-drone.svg" width="100%" alt="Matrix Chrome Dino Runner" />
+
+<img src="./assets/matrix-divider.svg" width="100%" alt="---" />
+
+<div align="center">
+  <sub>
+    Engineered by <strong>kishikuun</strong>
+  </sub>
+</div>
