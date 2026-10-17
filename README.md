@@ -155,9 +155,9 @@ Hi, I'm **Bảo Châu (Pandora)**. I'm fascinated by **the architecture of compu
 
 <br/>
 
-# 3D Contribution Calendar 📅
-<p align='center'>
-<img src="./profile-3d/profile-night-view.svg">
+# 3D Contribution Calendar 🗓️
+<p align="center">
+  <img src="./profile-3d/profile-night-view.svg" width="100%" alt="PandoraGenesis 3D Contribution Calendar"/>
 </p>
 <hr>
 <br>
