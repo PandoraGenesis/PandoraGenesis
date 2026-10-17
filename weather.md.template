@@ -1,0 +1,5 @@
+<p align="center"><sub>Auto-updated by GitHub Actions · Last update: {{ formatTime .UpdatedAt }}</sub></p>
+
+{{ template "hourly-table" $.TodayWeather.HourlyWeathers }}
+
+{{ template "daily-table" .Weathers }}
