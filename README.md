@@ -67,10 +67,29 @@ Hi, I'm **Bảo Châu (Pandora)**. I'm fascinated by **the architecture of compu
 
 <br/>
 
-# 🌤️ Weather Forecast
-
-<!-- WEATHER:START -->
-<!-- WEATHER:END -->
+# 🌤️ Today's Weather
+<table align="center">
+    <tr>
+        <th align="center">Date</th>
+        <td align="center">17/10/2026</td><td align="center">18/10/2026</td><td align="center">19/10/2026</td>
+    </tr>
+    <tr>
+        <th align="center">Weather</th>
+        <td align="center"><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"/></td><td align="center"><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"/></td><td align="center"><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"/></td>
+    </tr>
+    <tr>
+        <th align="center">Condition</th>
+        <td align="center" width="200px">Partly Cloudy</td><td align="center" width="200px">Patchy rain nearby</td><td align="center" width="200px">Patchy rain nearby</td>
+    </tr>
+    <tr>
+        <th align="center">Temperature</th>
+        <td align="center">24 -  34.2 °C</td><td align="center">24.8 -  31.1 °C</td><td align="center">24.5 -  33.1 °C</td>
+    </tr>
+    <tr>
+        <th align="center">Wind</th>
+        <td align="center">20.2 kph</td><td align="center">15.8 kph</td><td align="center">19.8 kph</td>
+    </tr>
+</table>
 
 <br/>
 
@@ -111,6 +130,12 @@ Hi, I'm **Bảo Châu (Pandora)**. I'm fascinated by **the architecture of compu
 <a href="https://scikit-learn.org/" target="_blank"><img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" /></a>
 </p>
 
+**Design**
+<br>
+<p align="center">
+<img src="./assets/canva.png" height="28" alt="Canva"><img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge" height="28" alt="Canva">&nbsp;&nbsp;&nbsp;<img src="./assets/capcut.jpg" height="28" alt="CapCut"><img src="https://img.shields.io/badge/CapCut-000000?style=for-the-badge" height="28" alt="CapCut">
+</p>
+
 <br/>
 
 # 📊 Telemetry & Stats
@@ -129,6 +154,24 @@ Hi, I'm **Bảo Châu (Pandora)**. I'm fascinated by **the architecture of compu
 </p>
 
 <br/>
+
+# 3D Contribution Calendar 📅
+<p align='center'>
+<img src="./profile-3d/profile-night-view.svg">
+</p>
+<hr>
+<br>
+
+# Most Used Languages 📚
+<br>
+<p align='center'>
+<img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=PandoraGenesis&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10">
+</p>
+<p align='center'>
+  <h6>Does not indicate my skill level or anything like that; it's a GitHub metric of which languages have the most code on GitHub.</h6>
+</p>
+<hr>
+<br>
 
 # ⚡ Contribution Animations
 
