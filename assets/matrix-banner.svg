@@ -311,12 +311,12 @@
 
       <g class="frame-10">
         <text x="30" y="45" font-size="10" font-weight="600" opacity="0.4" letter-spacing="2">[ NODE: PANDORAGENESIS // VIETNAM ]</text>
-        <text x="970" y="45" text-anchor="end" font-size="10" font-weight="600" opacity="0.4" letter-spacing="2">[ FOCUS: DATA-DRIVEN INSIGHTS ]</text>
+        <text x="970" y="45" text-anchor="end" font-size="10" font-weight="600" opacity="0.4" letter-spacing="2">[ FOCUS: COMPUTATION // ALGORITHMS ]</text>
         <text x="500" y="165" text-anchor="middle" font-size="62" font-weight="900" letter-spacing="8">PANDORA</text>
         <text x="500" y="206" text-anchor="middle" font-size="13" font-weight="600" letter-spacing="5" opacity="0.85"> COMPUTER SCIENCE / DATA SCIENCE  /  MACHINE LEARNING  /  PROBLEM SOLVING</text>
-        <text x="500" y="236" text-anchor="middle" font-size="11" font-weight="500" letter-spacing="3" opacity="0.5">[ DATASET_DECODED // INSIGHT_ENGINE_ONLINE ]</text>
+        <text x="500" y="236" text-anchor="middle" font-size="11" font-weight="500" letter-spacing="3" opacity="0.5">[ SYSTEMS_COMPILED // ALGORITHMS_ONLINE ]</text>
         <text x="30" y="315" font-size="10" font-weight="500" opacity="0.35" letter-spacing="2">PROJECTS: VNFINDER // HERMEX</text>
-        <text x="970" y="315" text-anchor="end" font-size="10" font-weight="500" opacity="0.35" letter-spacing="2">STATUS: LEARNING // BUILDING</text>
+        <text x="970" y="315" text-anchor="end" font-size="10" font-weight="500" opacity="0.35" letter-spacing="2">STATUS: STUDYING CS // BUILDING</text>
       </g>
 
       <g class="frame-11">
