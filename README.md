@@ -2,19 +2,23 @@
 
 <div align="center">
 
+  <!-- BRAND HEADER -->
   <a href="https://github.com/PandoraGenesis">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="assets/wordmark-dark.svg">
-      <img alt="PandoraGenesis" src="assets/wordmark-light.svg" width="420">
-    </picture>
+    <img src="./assets/matrix-banner.svg?v=2" width="100%" alt="PANDORA" />
   </a>
 
   <br/>
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7931E&center=true&vCenter=true&width=560&lines=Hi%2C+I'm+B%E1%BA%A3o+Ch%C3%A2u;Data-driven+problem+solver;Learning+Data+Science+%26+Machine+Learning;Based+in+Vietnam+%F0%9F%87%BB%F0%9F%87%B3" alt="Typing animation" />
+  <br/>
+  
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7931E&center=true&vCenter=true&width=760&height=40&lines=Hi%2C+I'm+B%E1%BA%A3o+Ch%C3%A2u+(Pandora);Computer-driven+problem+solver;Learning+Computer+Science+%26+Machine+Learning;Based+in+Vietnam" alt="Typing animation" />
 
-  <br/><br/>
+</div>
 
+  <br/>
+  
+
+<div align="center">
   <img src="https://hits.sh/github.com/PandoraGenesis.svg?style=for-the-badge&label=Profile%20views&color=F7931E&labelColor=1a1b27" alt="Profile views" />
 
 </div>
@@ -128,10 +132,9 @@ Hi, I'm **Bảo Châu (Pandora)**. I'm fascinated by **the architecture of compu
 <p align="center">
   <img alt="snake contribution graph" src="https://raw.githubusercontent.com/PandoraGenesis/PandoraGenesis/output/github-snake.svg?v=2" width="800">
 </p>
+<br/>
 
 <img src="./assets/matrix-drone.svg" width="100%" alt="Matrix Chrome Dino Runner" />
-
-<img src="./assets/matrix-divider.svg" width="100%" alt="---" />
 
 <br/>
 
