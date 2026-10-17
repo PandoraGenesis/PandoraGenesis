@@ -110,6 +110,10 @@ Hi, I'm **Bảo Châu (Pandora)**. I'm fascinated by **the architecture of compu
 </p>
 
 <p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PandoraGenesis&theme=radical" alt="Profile details" />
+</p>
+
+<p align="center">
   <img src="https://streak-stats.demolab.com/?user=PandoraGenesis&theme=tokyonight&hide_border=true" alt="Streak" width="100%" />
 </p>
 
