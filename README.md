@@ -29,19 +29,19 @@
 
 > *"Behind every dataset lies a story waiting to be understood — I just build the tools to read it."*
 
-Hi, I'm **Bảo Châu (Pandora)**. I'm fascinated by **the architecture of computation and data-driven insights**, and I love turning real-world problems into clean, algorithmic solutions. I balance **rigorous mathematical thinking** with **strong global communication skills**, always looking for the logic underneath the noise.
+Hi, I'm **Bảo Châu (Pandora)**. I'm fascinated by **the architecture of computation, the logic of algorithms and data-driven insights**, and I love turning real-world problems into clean, algorithmic solutions and working software. I balance **rigorous mathematical thinking** with **strong global communication skills**, always looking for the logic underneath the noise.
 
 <table align="center">
   <tr>
     <td align="center" valign="top" width="33%">
       <p align="center"><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f9ee.svg" width="56" height="56" alt="🧮" /></p>
-      <p align="center"><b>Analytical Mindset</b></p>
-      <p align="center">I enjoy breaking problems down mathematically before writing a single line of code.</p>
+      <p align="center"><b>Algorithmic Thinker</b></p>
+      <p align="center">I break problems down mathematically and design clean algorithms before writing a single line of code.</p>
     </td>
     <td align="center" valign="top" width="33%">
-      <p align="center"><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f4ca.svg" width="56" height="56" alt="📊" /></p>
-      <p align="center"><b>Data-Driven Thinker</b></p>
-      <p align="center">I care about what the numbers actually mean, not just what they show.</p>
+      <p align="center"><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f4bb.svg" width="56" height="56" alt="💻" /></p>
+      <p align="center"><b>Software Builder</b></p>
+      <p align="center">I enjoy building software end to end, from the core logic to a tool that people can actually use.</p>
     </td>
     <td align="center" valign="top" width="33%">
       <p align="center"><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f30d.svg" width="56" height="56" alt="🌍" /></p>
