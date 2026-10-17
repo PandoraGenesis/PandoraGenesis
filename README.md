@@ -155,13 +155,6 @@ Hi, I'm **Bảo Châu (Pandora)**. I'm fascinated by **the architecture of compu
 
 <br/>
 
-# 3D Contribution Calendar 🗓️
-<p align="center">
-  <img src="./profile-3d/profile-night-green.svg" width="100%" alt="PandoraGenesis 3D Contribution Calendar"/>
-</p>
-<hr>
-<br>
-
 # Most Used Languages 📚
 <br>
 <p align='center'>
@@ -169,6 +162,13 @@ Hi, I'm **Bảo Châu (Pandora)**. I'm fascinated by **the architecture of compu
 </p>
 <p align='center'>
   <h6>Does not indicate my skill level or anything like that; it's a GitHub metric of which languages have the most code on GitHub.</h6>
+</p>
+<hr>
+<br>
+
+# 3D Contribution Calendar 🗓️
+<p align="center">
+  <img src="./profile-3d/profile-night-green.svg" width="100%" alt="PandoraGenesis 3D Contribution Calendar"/>
 </p>
 <hr>
 <br>
