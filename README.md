@@ -120,13 +120,18 @@ Hi, I'm **Bảo Châu (Pandora)**. I'm fascinated by **the architecture of compu
 <br/>
 
 # ⚡ Contribution Animations
+
 <p align="center">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/PandoraGenesis/PandoraGenesis/output/pacman-contribution-graph.svg" width="800">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/PandoraGenesis/PandoraGenesis/output/pacman-contribution-graph.svg?v=2" width="800">
 </p>
 
 <p align="center">
-  <img alt="snake contribution graph" src="https://raw.githubusercontent.com/PandoraGenesis/PandoraGenesis/output/github-snake.svg" width="800">
+  <img alt="snake contribution graph" src="https://raw.githubusercontent.com/PandoraGenesis/PandoraGenesis/output/github-snake.svg?v=2" width="800">
 </p>
+
+<img src="./assets/matrix-drone.svg" width="100%" alt="Matrix Chrome Dino Runner" />
+
+<img src="./assets/matrix-divider.svg" width="100%" alt="---" />
 
 <br/>
 
