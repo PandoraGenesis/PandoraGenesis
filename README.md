@@ -161,7 +161,7 @@ Hi, I'm **Bảo Châu (Pandora)**. I'm fascinated by **the architecture of compu
 <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=PandoraGenesis&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10">
 </p>
 <p align='center'>
-  <h6>Does not indicate my skill level or anything like that; it's a GitHub metric of which languages have the most code on GitHub.</h6>
+  <h6>Note: Does not indicate my skill level or anything like that; it's a GitHub metric of which languages have the most code on GitHub.</h6>
 </p>
 <hr>
 <br>
