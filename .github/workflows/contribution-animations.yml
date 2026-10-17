@@ -36,3 +36,7 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Tint empty cells light green
+        run: |
+          sed -i 's/#ebedf0/#d6f2de/g' dist/github-snake.svg dist/pacman-contribution-graph.svg
