@@ -14,23 +14,34 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Generate weather section
+      - name: Generate weather block
         uses: huantt/weather-forecast@v1.0.5
         with:
           city: Quy Nhon
           days: 5
           weather-api-key: ${{ secrets.WEATHER_API_KEY }}
-          template-file: README.md.template
-          out-file: README.md
+          template-file: weather.md.template
+          out-file: weather.md
+
+      - name: Insert block into README
+        run: |
+          python3 - <<'EOF'
+          import re
+          readme = open("README.md", encoding="utf-8").read()
+          block = open("weather.md", encoding="utf-8").read().strip()
+          pattern = r"(<!-- WEATHER:START -->).*?(<!-- WEATHER:END -->)"
+          new = re.sub(pattern, lambda m: m.group(1) + "\n" + block + "\n" + m.group(2), readme, flags=re.S)
+          open("README.md", "w", encoding="utf-8").write(new)
+          EOF
 
       - name: Commit if changed
         run: |
-          if git diff --quiet; then
+          if git diff --quiet -- README.md; then
             echo "No changes"
             exit 0
           fi
-          git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
+          git config user.name "github-actions[bot]"
           git add README.md
           git commit -m "chore: update weather forecast"
           git push
