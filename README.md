@@ -69,11 +69,8 @@ Hi, I'm **Bảo Châu (Pandora)**. I'm fascinated by **the architecture of compu
 
 # 🌤️ Weather Forecast
 
-<p align="center"><sub>Auto-updated by GitHub Actions · Last update: {{ formatTime .UpdatedAt }}</sub></p>
-
-{{ template "hourly-table" $.TodayWeather.HourlyWeathers }}
-
-{{ template "daily-table" .Weathers }}
+<!-- WEATHER:START -->
+<!-- WEATHER:END -->
 
 <br/>
 
