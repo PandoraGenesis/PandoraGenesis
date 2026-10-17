@@ -2,7 +2,6 @@
 
 <div align="center">
 
-  <!-- BRAND HEADER -->
   <a href="https://github.com/PandoraGenesis">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="assets/wordmark-dark.svg">
@@ -12,13 +11,15 @@
 
   <br/>
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7931E&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+B%E1%BA%A3o+Ch%C3%A2u;I'm+from+Vietnam;Data-driven+problem+solver" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7931E&center=true&vCenter=true&width=560&lines=Hi%2C+I'm+B%E1%BA%A3o+Ch%C3%A2u;Data-driven+problem+solver;Learning+Data+Science+%26+Machine+Learning;Based+in+Vietnam+%F0%9F%87%BB%F0%9F%87%B3" alt="Typing animation" />
+
+  <br/><br/>
+
+  <img src="https://hits.sh/github.com/PandoraGenesis.svg?style=for-the-badge&label=Profile%20views&color=F7931E&labelColor=1a1b27" alt="Profile views" />
 
 </div>
 
 <br/>
-
-<div align="left">
 
 # 👋 Who Am I?
 
@@ -26,33 +27,48 @@
 
 Hi, I'm **Bảo Châu (Pandora)**. I'm fascinated by **the architecture of computation and data-driven insights**, and I love turning real-world problems into clean, algorithmic solutions. I balance **rigorous mathematical thinking** with **strong global communication skills**, always looking for the logic underneath the noise.
 
-- 🧮 **Analytical Mindset:** I enjoy breaking problems down mathematically before writing a single line of code.
-- 📊 **Data-Driven Thinker:** I care about what the numbers actually mean, not just what they show.
-- 🌍 **Global Communicator:** Comfortable working and presenting across languages and cultures.
-
-</div>
+<table align="center">
+  <tr>
+    <td align="center" valign="top" width="33%">
+      <p align="center"><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f9ee.svg" width="56" height="56" alt="🧮" /></p>
+      <p align="center"><b>Analytical Mindset</b></p>
+      <p align="center">I enjoy breaking problems down mathematically before writing a single line of code.</p>
+    </td>
+    <td align="center" valign="top" width="33%">
+      <p align="center"><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f4ca.svg" width="56" height="56" alt="📊" /></p>
+      <p align="center"><b>Data-Driven Thinker</b></p>
+      <p align="center">I care about what the numbers actually mean, not just what they show.</p>
+    </td>
+    <td align="center" valign="top" width="33%">
+      <p align="center"><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f30d.svg" width="56" height="56" alt="🌍" /></p>
+      <p align="center"><b>Global Communicator</b></p>
+      <p align="center">Fluent in collaborating across languages, cultures and time zones.</p>
+    </td>
+  </tr>
+</table>
 
 <br/>
 
 # 🎯 What I'm Up To
+
 <p align="center">
-  <img src="https://img.shields.io/badge/💻_Studying-Computer_Science_Fundamentals-blue?style=for-the-badge" />
-  <br/>
-  <img src="https://img.shields.io/badge/🌱_Learning-Data_Science_%26_Machine_Learning-purple?style=for-the-badge" />
-  <br/>
-  <img src="https://img.shields.io/badge/📈_Researching-Student_Mental_Health_Analytics-orange?style=for-the-badge" />
-  <br/>
-  <img src="https://img.shields.io/badge/💡_Exploring-Algorithms_%26_Problem_Solving-teal?style=for-the-badge" />
+<img src="https://img.shields.io/badge/💻_Studying-Computer_Science_Fundamentals-blue?style=for-the-badge" />
+<br/>
+<img src="https://img.shields.io/badge/🌱_Learning-Data_Science_%26_Machine_Learning-purple?style=for-the-badge" />
+<br/>
+<img src="https://img.shields.io/badge/📈_Researching-Student_Mental_Health_Analytics-orange?style=for-the-badge" />
+<br/>
+<img src="https://img.shields.io/badge/💡_Exploring-Algorithms_%26_Problem_Solving-teal?style=for-the-badge" />
 </p>
 
 <br/>
 
-# 🌐 Socials
+# 🚀 Featured Projects
+
 <p align="center">
-<a href="https://fb.com/lengocbaochau.2009" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>&nbsp;&nbsp;
-<a href="https://instagram.com/lengocbaochau.2009" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;&nbsp;
-<a href="https://discord.gg/baochau.70209" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>&nbsp;&nbsp;
-<a href="mailto:lengocbaochau120209@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://github.com/PandoraGenesis/VNFinder"><img align="top" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=PandoraGenesis&repo=VNFinder&theme=tokyonight&hide_border=true" alt="VNFinder" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/epic-qhqn/hermex"><img align="top" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=epic-qhqn&repo=hermex&theme=tokyonight&hide_border=true" alt="Hermex" /></a>
+<br/><br/>
+<a href="https://github.com/PandoraGenesis/IELTS_tracker"><img align="top" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=PandoraGenesis&repo=IELTS_tracker&theme=tokyonight&hide_border=true" alt="IELTS_tracker" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/epic-qhqn/scip2026"><img align="top" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=epic-qhqn&repo=scip2026&theme=tokyonight&hide_border=true" alt="scip2026" /></a>
 </p>
 
 <br/>
@@ -89,36 +105,37 @@ Hi, I'm **Bảo Châu (Pandora)**. I'm fascinated by **the architecture of compu
 # 📊 Telemetry & Stats
 
 <p align="center">
-  <img src="https://denvercoder1-github-readme-stats.vercel.app/api?username=PandoraGenesis&show_icons=true&count_private=true&theme=tokyonight" />
-  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=PandoraGenesis&layout=compact&theme=tokyonight" />
+  <img src="https://denvercoder1-github-readme-stats.vercel.app/api?username=PandoraGenesis&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
+  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=PandoraGenesis&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=PandoraGenesis&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false" alt="Stats" />
-  <img src="https://streak-stats.demolab.com/?user=PandoraGenesis&theme=tokyonight&hide_border=true" alt="Streak" />
+  <img src="https://streak-stats.demolab.com/?user=PandoraGenesis&theme=tokyonight&hide_border=true" alt="Streak" width="100%" />
 </p>
 
 <br/>
 
 # ⚡ Contribution Animations
+
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hoangtien2k3/hoangtien2k3/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hoangtien2k3/hoangtien2k3/output/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/hoangtien2k3/hoangtien2k3/output/pacman-contribution-graph.svg" width="600">
-  </picture>
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/PandoraGenesis/PandoraGenesis/output/pacman-contribution-graph-dark.svg" width="600">
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/hoangtien2k3/hoangtien2k3/main/dist/grid-snake.svg" width="100%"/>
+  <img alt="snake contribution graph" src="https://raw.githubusercontent.com/PandoraGenesis/PandoraGenesis/output/github-snake-dark.svg" width="100%">
 </p>
 
 <br/>
 
+# 🤝 Let's Connect
+
 <p align="center">
-  <a href="https://vineet221713.io">
-    <img src="https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif" width="100%"/>
-  </a>
+<a href="https://fb.com/lengocbaochau.2009" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>&nbsp;&nbsp;
+<a href="https://instagram.com/lengocbaochau.2009" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;&nbsp;
+<a href="https://discord.gg/baochau.70209" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>&nbsp;&nbsp;
+<a href="mailto:lengocbaochau120209@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
+
+<p align="center"><sub>⭐ If you like what you see, a star on any repo is always appreciated.</sub></p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer" width="100%"/>
