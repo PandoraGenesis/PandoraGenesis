@@ -1,0 +1,36 @@
+name: Update weather forecast
+
+on:
+  schedule:
+    - cron: "15 */6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-weather:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate weather section
+        uses: huantt/weather-forecast@v1.0.5
+        with:
+          city: Quy Nhon
+          days: 5
+          weather-api-key: ${{ secrets.WEATHER_API_KEY }}
+          template-file: README.md.template
+          out-file: README.md
+
+      - name: Commit if changed
+        run: |
+          if git diff --quiet; then
+            echo "No changes"
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "chore: update weather forecast"
+          git push
