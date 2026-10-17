@@ -31,9 +31,11 @@ jobs:
 
       - name: Add solid background to SVGs
         run: |
+          BG="#0b2b1a"
           for f in dist/github-snake-dark.svg dist/pacman-contribution-graph-dark.svg; do
-            perl -0pi -e 's/(<svg[^>]*>)/$1<style>text{fill:#c9d1d9 !important}<\/style><rect width="100%" height="100%" fill="#0b2b1a" rx="8"\/>/' "$f"
+            perl -0pi -e "s/(<svg[^>]*>)/\$1<style>text{fill:#c9d1d9 !important}<\/style><rect x=\"-2000\" y=\"-2000\" width=\"6000\" height=\"6000\" fill=\"$BG\"\/>/" "$f"
           done
+          perl -0pi -e "s/(<rect\b[^>]*?)fill=\"[^\"]*\"/\$1fill=\"$BG\"/" dist/pacman-contribution-graph-dark.svg
 
       - name: Push to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
