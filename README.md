@@ -67,7 +67,7 @@ Hi, I'm **Bảo Châu (Pandora)**. I'm fascinated by **the architecture of compu
 
 <br/>
 
-# 🌤️ Today's Weather
+# 🌤️ Weather
 <table align="center">
     <tr>
         <th align="center">Date</th>
@@ -166,7 +166,7 @@ Hi, I'm **Bảo Châu (Pandora)**. I'm fascinated by **the architecture of compu
 <hr>
 <br>
 
-# 3D Contribution Calendar 🗓️
+# 🗓️ 3D Contribution Calendar
 <p align="center">
   <img src="./profile-3d/profile-night-green.svg" width="100%" alt="PandoraGenesis 3D Contribution Calendar"/>
 </p>
