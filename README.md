@@ -67,6 +67,14 @@ Hi, I'm **Bảo Châu (Pandora)**. I'm fascinated by **the architecture of compu
 
 <br/>
 
+# 🕒 Clock
+
+<p align="center">
+  <img src="https://clock.lengocbaochau120209.workers.dev/?v=4" alt="24 múi giờ UTC" width="100%" />
+</p>
+
+<br/>
+
 # 🌤️ Weather
 
 <!-- WEATHER:START -->
