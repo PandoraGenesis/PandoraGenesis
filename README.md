@@ -79,6 +79,8 @@ Hi, I'm **Bảo Châu (Pandora)**. I'm fascinated by **the architecture of compu
 </table>
 <!-- WEATHER:END -->
 
+<br/>
+
 # 🚀 Featured Projects
 
 <p align="center">
