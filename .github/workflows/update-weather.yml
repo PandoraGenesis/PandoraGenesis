@@ -74,8 +74,8 @@ jobs:
             echo "No changes"
             exit 0
           fi
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git config user.name "PandoraGenesis"
+          git config user.email "<id>+PandoraGenesis@users.noreply.github.com"
           git add README.md
           git commit -m "chore: update weather forecast"
           git push
