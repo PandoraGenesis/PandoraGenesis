@@ -29,29 +29,27 @@ jobs:
               "aqi": "no",
               "alerts": "no",
           })
-          url = "https://api.weatherapi.com/v1/forecast.json?" + q
-          with urllib.request.urlopen(url, timeout=30) as r:
+          with urllib.request.urlopen("https://api.weatherapi.com/v1/forecast.json?" + q, timeout=30) as r:
               data = json.load(r)
 
           days = data["forecast"]["forecastday"]
-          wd = ["T2", "T3", "T4", "T5", "T6", "T7", "CN"]
 
-          def cell(tag, content):
-              return f"<{tag}>{content}</{tag}>"
+          def row(label, cells):
+              return "<tr><th>" + label + "</th>" + "".join(f"<td>{c}</td>" for c in cells) + "</tr>"
 
-          heads, icons, conds, temps, rains = [], [], [], [], []
-          for fd in days:
-              d = datetime.strptime(fd["date"], "%Y-%m-%d")
-              day = fd["day"]
-              heads.append(cell("th", f"{wd[d.weekday()]} {d:%d/%m}"))
-              icon = "https:" + day["condition"]["icon"]
-              icons.append(cell("td", f'<img src="{icon}" width="48" alt="">'))
-              conds.append(cell("td", day["condition"]["text"]))
-              temps.append(cell("td", f'{round(day["mintemp_c"])}° - {round(day["maxtemp_c"])}°C'))
-              rains.append(cell("td", f'{day["daily_chance_of_rain"]}% mưa'))
+          dates = [datetime.strptime(d["date"], "%Y-%m-%d").strftime("%d/%m/%Y") for d in days]
+          icons = [f'<img src="https:{d["day"]["condition"]["icon"]}" width="48" alt="">' for d in days]
+          conds = [d["day"]["condition"]["text"] for d in days]
+          temps = [f'{d["day"]["mintemp_c"]} - {d["day"]["maxtemp_c"]} °C' for d in days]
+          winds = [f'{d["day"]["maxwind_kph"]} kph' for d in days]
 
-          rows = [heads, icons, conds, temps, rains]
-          html = "<table>\n" + "\n".join("<tr>" + "".join(r) + "</tr>" for r in rows) + "\n</table>"
+          html = '<table align="center">\n' + "\n".join([
+              row("Date", dates),
+              row("Weather", icons),
+              row("Condition", conds),
+              row("Temperature", temps),
+              row("Wind", winds),
+          ]) + "\n</table>"
           open("weather.md", "w", encoding="utf-8").write(html)
           EOF
 
