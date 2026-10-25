@@ -80,10 +80,10 @@ Hi, I'm **Bảo Châu (Pandora)**. I'm fascinated by **the architecture of compu
 <!-- WEATHER:START -->
 <table align="center">
 <tr><th align="center">Date</th><td align="center">25/10/2026</td><td align="center">26/10/2026</td><td align="center">27/10/2026</td><td align="center">28/10/2026</td><td align="center">29/10/2026</td></tr>
-<tr><th align="center">Weather</th><td align="center"><img src="https://cdn.weatherapi.com/weather/64x64/day/122.png" width="48" alt=""></td><td align="center"><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png" width="48" alt=""></td><td align="center"><img src="https://cdn.weatherapi.com/weather/64x64/day/353.png" width="48" alt=""></td><td align="center"><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png" width="48" alt=""></td><td align="center"><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png" width="48" alt=""></td></tr>
-<tr><th align="center">Condition</th><td align="center">Overcast</td><td align="center">Patchy rain nearby</td><td align="center">Light rain shower</td><td align="center">Patchy rain nearby</td><td align="center">Patchy rain nearby</td></tr>
-<tr><th align="center">Temperature</th><td align="center">23.6 - 28.6 °C</td><td align="center">23.6 - 28.1 °C</td><td align="center">24.1 - 27.8 °C</td><td align="center">24.2 - 28.1 °C</td><td align="center">24.1 - 28.0 °C</td></tr>
-<tr><th align="center">Wind</th><td align="center">10.8 kph</td><td align="center">16.9 kph</td><td align="center">20.9 kph</td><td align="center">23.4 kph</td><td align="center">17.3 kph</td></tr>
+<tr><th align="center">Weather</th><td align="center"><img src="https://cdn.weatherapi.com/weather/64x64/day/122.png" width="48" alt=""></td><td align="center"><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png" width="48" alt=""></td><td align="center"><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png" width="48" alt=""></td><td align="center"><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png" width="48" alt=""></td><td align="center"><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png" width="48" alt=""></td></tr>
+<tr><th align="center">Condition</th><td align="center">Overcast</td><td align="center">Patchy rain nearby</td><td align="center">Patchy rain nearby</td><td align="center">Patchy rain nearby</td><td align="center">Patchy rain nearby</td></tr>
+<tr><th align="center">Temperature</th><td align="center">23.8 - 28.7 °C</td><td align="center">24.2 - 28.3 °C</td><td align="center">24.2 - 27.6 °C</td><td align="center">23.9 - 28.0 °C</td><td align="center">24.6 - 28.0 °C</td></tr>
+<tr><th align="center">Wind</th><td align="center">10.8 kph</td><td align="center">18.4 kph</td><td align="center">22.3 kph</td><td align="center">21.2 kph</td><td align="center">15.8 kph</td></tr>
 </table>
 <!-- WEATHER:END -->
 
