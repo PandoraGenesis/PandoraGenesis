@@ -79,11 +79,11 @@ Hi, I'm **Bảo Châu (Pandora)**. I'm fascinated by **the architecture of compu
 
 <!-- WEATHER:START -->
 <table align="center">
-<tr><th align="center">Date</th><td align="center">02/11/2026</td><td align="center">03/11/2026</td><td align="center">04/11/2026</td></tr>
-<tr><th align="center">Weather</th><td align="center"><img src="https://cdn.weatherapi.com/weather/64x64/day/353.png" width="48" alt=""></td><td align="center"><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png" width="48" alt=""></td><td align="center"><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png" width="48" alt=""></td></tr>
-<tr><th align="center">Condition</th><td align="center">Light rain shower</td><td align="center">Patchy rain nearby</td><td align="center">Patchy rain nearby</td></tr>
-<tr><th align="center">Temperature</th><td align="center">24.4 - 27.5 °C</td><td align="center">24.1 - 27.8 °C</td><td align="center">24.3 - 28.4 °C</td></tr>
-<tr><th align="center">Wind</th><td align="center">14.4 kph</td><td align="center">14.8 kph</td><td align="center">13.0 kph</td></tr>
+<tr><th align="center">Date</th><td align="center">03/11/2026</td><td align="center">04/11/2026</td><td align="center">05/11/2026</td></tr>
+<tr><th align="center">Weather</th><td align="center"><img src="https://cdn.weatherapi.com/weather/64x64/day/122.png" width="48" alt=""></td><td align="center"><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png" width="48" alt=""></td><td align="center"><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png" width="48" alt=""></td></tr>
+<tr><th align="center">Condition</th><td align="center">Overcast</td><td align="center">Patchy rain nearby</td><td align="center">Patchy rain nearby</td></tr>
+<tr><th align="center">Temperature</th><td align="center">24.2 - 27.7 °C</td><td align="center">24.2 - 28.5 °C</td><td align="center">24.5 - 28.5 °C</td></tr>
+<tr><th align="center">Wind</th><td align="center">11.9 kph</td><td align="center">11.5 kph</td><td align="center">11.9 kph</td></tr>
 </table>
 <!-- WEATHER:END -->
 
