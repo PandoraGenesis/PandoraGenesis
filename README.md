@@ -79,11 +79,11 @@ Hi, I'm **Bảo Châu (Pandora)**. I'm fascinated by **the architecture of compu
 
 <!-- WEATHER:START -->
 <table align="center">
-<tr><th align="center">Date</th><td align="center">06/11/2026</td><td align="center">07/11/2026</td><td align="center">08/11/2026</td></tr>
+<tr><th align="center">Date</th><td align="center">07/11/2026</td><td align="center">08/11/2026</td><td align="center">09/11/2026</td></tr>
 <tr><th align="center">Weather</th><td align="center"><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png" width="48" alt=""></td><td align="center"><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png" width="48" alt=""></td><td align="center"><img src="https://cdn.weatherapi.com/weather/64x64/day/353.png" width="48" alt=""></td></tr>
 <tr><th align="center">Condition</th><td align="center">Patchy rain nearby</td><td align="center">Patchy rain nearby</td><td align="center">Light rain shower</td></tr>
-<tr><th align="center">Temperature</th><td align="center">24.6 - 29.0 °C</td><td align="center">24.4 - 28.0 °C</td><td align="center">24.0 - 27.5 °C</td></tr>
-<tr><th align="center">Wind</th><td align="center">16.6 kph</td><td align="center">15.8 kph</td><td align="center">21.6 kph</td></tr>
+<tr><th align="center">Temperature</th><td align="center">23.8 - 27.9 °C</td><td align="center">23.9 - 27.8 °C</td><td align="center">23.9 - 26.3 °C</td></tr>
+<tr><th align="center">Wind</th><td align="center">18.4 kph</td><td align="center">23.0 kph</td><td align="center">37.4 kph</td></tr>
 </table>
 <!-- WEATHER:END -->
 
