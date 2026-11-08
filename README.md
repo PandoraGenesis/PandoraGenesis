@@ -82,8 +82,8 @@ Hi, I'm **Bảo Châu (Pandora)**. I'm fascinated by **the architecture of compu
 <tr><th align="center">Date</th><td align="center">08/11/2026</td><td align="center">09/11/2026</td><td align="center">10/11/2026</td></tr>
 <tr><th align="center">Weather</th><td align="center"><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png" width="48" alt=""></td><td align="center"><img src="https://cdn.weatherapi.com/weather/64x64/day/353.png" width="48" alt=""></td><td align="center"><img src="https://cdn.weatherapi.com/weather/64x64/day/353.png" width="48" alt=""></td></tr>
 <tr><th align="center">Condition</th><td align="center">Patchy rain nearby</td><td align="center">Light rain shower</td><td align="center">Light rain shower</td></tr>
-<tr><th align="center">Temperature</th><td align="center">24.1 - 28.7 °C</td><td align="center">24.1 - 26.8 °C</td><td align="center">23.9 - 26.4 °C</td></tr>
-<tr><th align="center">Wind</th><td align="center">25.2 kph</td><td align="center">37.4 kph</td><td align="center">38.5 kph</td></tr>
+<tr><th align="center">Temperature</th><td align="center">24.1 - 28.4 °C</td><td align="center">23.8 - 26.8 °C</td><td align="center">24.2 - 26.4 °C</td></tr>
+<tr><th align="center">Wind</th><td align="center">23.4 kph</td><td align="center">36.7 kph</td><td align="center">38.2 kph</td></tr>
 </table>
 <!-- WEATHER:END -->
 
