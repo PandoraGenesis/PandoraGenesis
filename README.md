@@ -79,11 +79,11 @@ Hi, I'm **Bảo Châu (Pandora)**. I'm fascinated by **the architecture of compu
 
 <!-- WEATHER:START -->
 <table align="center">
-<tr><th align="center">Date</th><td align="center">26/11/2026</td><td align="center">27/11/2026</td><td align="center">28/11/2026</td></tr>
-<tr><th align="center">Weather</th><td align="center"><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png" width="48" alt=""></td><td align="center"><img src="https://cdn.weatherapi.com/weather/64x64/day/353.png" width="48" alt=""></td><td align="center"><img src="https://cdn.weatherapi.com/weather/64x64/day/302.png" width="48" alt=""></td></tr>
-<tr><th align="center">Condition</th><td align="center">Patchy rain nearby</td><td align="center">Light rain shower</td><td align="center">Moderate rain</td></tr>
-<tr><th align="center">Temperature</th><td align="center">24.1 - 26.1 °C</td><td align="center">24.1 - 26.5 °C</td><td align="center">24.2 - 24.8 °C</td></tr>
-<tr><th align="center">Wind</th><td align="center">20.2 kph</td><td align="center">19.1 kph</td><td align="center">19.1 kph</td></tr>
+<tr><th align="center">Date</th><td align="center">27/11/2026</td><td align="center">28/11/2026</td><td align="center">29/11/2026</td></tr>
+<tr><th align="center">Weather</th><td align="center"><img src="https://cdn.weatherapi.com/weather/64x64/day/296.png" width="48" alt=""></td><td align="center"><img src="https://cdn.weatherapi.com/weather/64x64/day/308.png" width="48" alt=""></td><td align="center"><img src="https://cdn.weatherapi.com/weather/64x64/day/353.png" width="48" alt=""></td></tr>
+<tr><th align="center">Condition</th><td align="center">Light rain</td><td align="center">Heavy rain</td><td align="center">Light rain shower</td></tr>
+<tr><th align="center">Temperature</th><td align="center">24.2 - 26.0 °C</td><td align="center">23.9 - 24.6 °C</td><td align="center">23.8 - 24.6 °C</td></tr>
+<tr><th align="center">Wind</th><td align="center">19.8 kph</td><td align="center">24.8 kph</td><td align="center">20.9 kph</td></tr>
 </table>
 <!-- WEATHER:END -->
 
