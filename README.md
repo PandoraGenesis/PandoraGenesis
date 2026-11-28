@@ -80,10 +80,10 @@ Hi, I'm **Bảo Châu (Pandora)**. I'm fascinated by **the architecture of compu
 <!-- WEATHER:START -->
 <table align="center">
 <tr><th align="center">Date</th><td align="center">28/11/2026</td><td align="center">29/11/2026</td><td align="center">30/11/2026</td></tr>
-<tr><th align="center">Weather</th><td align="center"><img src="https://cdn.weatherapi.com/weather/64x64/day/308.png" width="48" alt=""></td><td align="center"><img src="https://cdn.weatherapi.com/weather/64x64/day/353.png" width="48" alt=""></td><td align="center"><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png" width="48" alt=""></td></tr>
-<tr><th align="center">Condition</th><td align="center">Heavy rain</td><td align="center">Light rain shower</td><td align="center">Patchy rain nearby</td></tr>
-<tr><th align="center">Temperature</th><td align="center">24.1 - 24.7 °C</td><td align="center">23.9 - 25.1 °C</td><td align="center">23.5 - 26.2 °C</td></tr>
-<tr><th align="center">Wind</th><td align="center">28.1 kph</td><td align="center">22.7 kph</td><td align="center">11.2 kph</td></tr>
+<tr><th align="center">Weather</th><td align="center"><img src="https://cdn.weatherapi.com/weather/64x64/day/302.png" width="48" alt=""></td><td align="center"><img src="https://cdn.weatherapi.com/weather/64x64/day/353.png" width="48" alt=""></td><td align="center"><img src="https://cdn.weatherapi.com/weather/64x64/day/353.png" width="48" alt=""></td></tr>
+<tr><th align="center">Condition</th><td align="center">Moderate rain</td><td align="center">Light rain shower</td><td align="center">Light rain shower</td></tr>
+<tr><th align="center">Temperature</th><td align="center">24.2 - 25.0 °C</td><td align="center">24.3 - 25.1 °C</td><td align="center">23.9 - 26.5 °C</td></tr>
+<tr><th align="center">Wind</th><td align="center">22.7 kph</td><td align="center">22.3 kph</td><td align="center">11.2 kph</td></tr>
 </table>
 <!-- WEATHER:END -->
 
